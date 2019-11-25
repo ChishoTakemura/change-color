@@ -1,0 +1,31 @@
+{
+  "name": "change-color",
+  "version": "1.0.0",
+  "description": "change-color",
+  "main": "index.js",
+  "homepage": "https://ChishoTakemura.github.io/change-color",
+  "scripts": {
+    "deploy": " gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChishoTakemura/change-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChishoTakemura/change-color/issues"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.2",
+    "css-declaration-sorter": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
