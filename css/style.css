@@ -19,7 +19,7 @@ body{
   border-radius: 30px;
 }
 
-@media screen and (max-width:820px){
+@media screen and (max-width:450px){
   .box {
     width: 300px;
     height: 300px;
